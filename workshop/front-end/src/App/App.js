@@ -9,8 +9,8 @@ import Footer from '../Footer/Footer'
 function App() {
   return (
     <div className="App">
-        <Navigation />
 
+        <Navigation />
         <div className="Container" >
           <Aside />
           <Main title="Hello">
